@@ -2,6 +2,14 @@
 
 ###  Project Topic: Amazon Product Review Analysis
 
+[Project overview](#project-overview)
+[Data Sources](#data-sources)
+[Tools Used](#tools-used)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+[Exploratory Data Analysis](#exploratory-data-analysis)
+[Data Analysis](#data-analysis)
+[Data Visualization](#data-visualization)
+
 ### Project overview
 ---
 The aim of this data analysis project is to create insightful views on sales performance for the e-commerce site over a specified period. By analyzing customer and product reviews, the project will discover trends that will guide product improvement, enhance marketing, and enhance customer interaction. Insights generated will enable management decision-making and aid in sharing compelling data-driven stories, highlighting best-selling products and general company performance.
@@ -63,7 +71,7 @@ This is where we include some basic lines of code or queries or even some of the
 
 ### Data Visualization
 -
-
+📱 
 
 
   
