@@ -28,8 +28,10 @@ The primary source of Data used here is amazon case study.xlsx and this is an op
 ---
 - Microsoft Excel
   1.  For Data Cleaning
-  2.  For Analysis
-  3.  For Data Visualization
+     a. Data Manipulation
+     b. Data Munching
+  3.  For Analysis
+  4.  For Data Visualization
      
 - GitHub for Portfolio Building
 
