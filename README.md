@@ -27,13 +27,13 @@ The primary source of Data used here is amazon case study.xlsx and this is an op
 ### Tools Used
 ---
 - Microsoft Excel
-  1.  For Data Cleaning
+  1. For Data Cleaning
      
-   - Data Manipulation
-   - Data Munching
+    - Data Manipulation
+    - Data Munching
   
-  3.  For Analysis
-  4.  For Data Visualization
+  3. For Analysis
+  4. For Data Visualization
      
 - GitHub for Portfolio Building
 
