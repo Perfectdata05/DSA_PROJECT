@@ -1,6 +1,6 @@
 # DSA_PROJECT
 
-###  Project Topic: Amazon Product Review Analysis
+##  Project Topic: Amazon Product Review Analysis
 
 [Project overview](#project-overview)
 
