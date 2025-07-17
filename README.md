@@ -28,6 +28,7 @@ The primary source of Data used here is amazon case study.xlsx and this is an op
 ---
 - Microsoft Excel
   1.  For Data Cleaning
+     
    a. Data Manipulation
    b. Data Munching
   3.  For Analysis
